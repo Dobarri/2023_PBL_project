@@ -1,7 +1,5 @@
-# 2023_PBL_project
---
-# Convergence-Project-Spring-2023-Team4
-
+# 2023_Convergence-Project-Spring-Team4_PBL_project
+---
 ## baseline model parameters
 ---
 - Backbone : ResNet50(pretrained with ImageNet)
